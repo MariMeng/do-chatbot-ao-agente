@@ -77,6 +77,8 @@ Esse projeto mostra o que a Parte 7 discute: uma ferramenta que traz texto de fo
 
 **Repositório:** [XInel-s/cambio-frankfurter-ai-agent](https://github.com/XInel-s/cambio-frankfurter-ai-agent)
 
+**Autor:** Guilherme Aparecido
+
 Este projeto parte do **Desafio 1** (cotação de moedas) e o leva para fora do Colab. É um script Python de terminal (`Conversor.py`) que responde a perguntas de câmbio em linguagem natural.
 
 Ele usa uma única ferramenta, `consult_cotacao(orig_coin, dest_coin, val)`:
