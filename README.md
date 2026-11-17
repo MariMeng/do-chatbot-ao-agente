@@ -51,6 +51,8 @@ Dois participantes publicaram agentes que construíram a partir do minicurso.
 
 **Repositório:** [Alguem5381/agente-curso](https://github.com/Alguem5381/agente-curso)
 
+**Autor:** Júlio Cesar Lima de Souza
+
 O autor partiu do notebook do minicurso e deu ao Estudaí **três ferramentas novas** que usam a API REST pública do GitHub:
 
 | Ferramenta | O que faz |
